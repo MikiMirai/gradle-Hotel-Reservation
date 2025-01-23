@@ -172,6 +172,13 @@ button:hover {
     height: 70%;
 }
 
+.buttons {
+    display: flex;
+}
+
+.buttons button {
+    margin: 20px;
+}
 
 .thank-you {
     display: flex;
